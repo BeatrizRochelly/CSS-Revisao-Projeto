@@ -1,0 +1,45 @@
+body{
+     padding:  20px;
+    }
+p {
+    color: green;
+  }
+
+  /* Classes e Ids (tomar cuidado com comentarios porque nao e seguro, porque mostra para  o usuario */
+
+  .meu-paragrafo{
+    background-color: black;
+    color: red;
+  }
+
+  #titulo-principal {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    font-family: Helvetica;
+  }
+
+   /*Elementos da pagina, listas */
+   * {
+    font-family: Arial;
+   }
+  
+   p, h1{
+    border-bottom: 1px solid red;
+   }
+
+   /* Cores */
+   .nome-da-cor{
+    color: pink;
+   }
+
+   .hexa{
+    color: #324597;
+    background-color: #589547;
+   }
+
+   .rgb {
+    color: rgb(100, 95, 62);
+   }
+
+
