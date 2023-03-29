@@ -23,3 +23,11 @@ Projeto desenvolvido para revisar o assunto CSS
 - Esta última forma é mais indicada, e devemos sempre tentar utilizá-las;
 - Vamos vê-las na prática!
 
+# Seletores de CSS
+- Temos formas além das tags de selecionar elementos;
+- Por classes: quando queremos afetar mais elementos com uma regra;
+- Por id: quando queremos afetar um único elemento;
+- Estas formas são referentes aos atributos class e id;
+- Há uma convenção no HTML que não nos permite adicionar mais de um elemento com o mesmo id em uma página;
+
+
