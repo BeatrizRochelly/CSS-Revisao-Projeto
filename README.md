@@ -1,5 +1,5 @@
 # CSS-Revisao-Projeto
-Projeto desenvolvido para revisar o assunto CSS
+Projeto desenvolvido para revisar o assunto CSS atráves do canal de Matheus Battisti - Hora de Codar
 
 # O que é CSS?
 - CSS é uma linguagem de estilização;
